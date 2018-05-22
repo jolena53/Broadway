@@ -28,13 +28,13 @@ h4 {
 }
 #newy {
   color: white;
-  background-image: url("./images/style.css")
+  background-image: url("./images/flatiron-building.png")
 }
 p {
   font-size: 14px;
   }
 .header {
-  background-image: url("./images/...");
+  background-image: url("./images/flatiron-building.png");
   text-align: center;
 }
 
@@ -43,7 +43,9 @@ footer {
   background-color: dimgray;
   text-align: left;
 }
-
+h4.footer {
+  display: inline;
+}
 #copy  {
   font-size: 11px;
 
